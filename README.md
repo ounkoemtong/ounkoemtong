@@ -14,7 +14,7 @@
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,mongodb,spring,django" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,postgres,mongodb,spring,django,flask,nodejs" />
 </p>
 
 ### 🧠 Programming & Networking
@@ -23,7 +23,7 @@
    
 
   
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,window" />
     <img src="https://skillicons.dev/icons?i=debian" />
 
 </p>
