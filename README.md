@@ -9,7 +9,7 @@
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,typescript,react,vue,angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,typescript,react,vue,angular,nextjs" />
 </p>
 
 ### ⚙️ Backend
