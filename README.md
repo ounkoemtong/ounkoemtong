@@ -1,7 +1,7 @@
-## 👋 Hi there, I'm khong koemtong (tingtong)
+##  Hi there, I'm khong koemtong (tingtong)
 
-💻 Full-Stack Web Developer | 👨‍🏫 Web Development Instructor  
-🚀 Passionate about building real-world systems, dashboards & APIs
+💻 Full-Stack Web Developer |  Web Development Instructor  
+Passionate about building real-world systems, dashboards & APIs
 
 ---
 
@@ -38,7 +38,7 @@
 ## 📌 What I Do
 - Build E-Commerce, CMS, LMS & Management Systems
 - Develop REST APIs with JWT Authentication
-- Integrate Bakong Payment
+- API Integrate
 - Teach Frontend, Backend & Basic Networking
 - Guide Scholarship Students with real projects
 
